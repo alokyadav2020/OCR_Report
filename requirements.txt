@@ -1,0 +1,11 @@
+streamlit
+google-cloud-storage
+google-cloud-documentai
+google-api-core
+python-dotenv
+anthropic
+openai
+fitz
+PyMuPDF==1.22.5
+pymupdf
+-e .

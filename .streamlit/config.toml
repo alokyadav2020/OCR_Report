@@ -1,0 +1,10 @@
+
+
+[theme]
+base = "dark"  
+
+[ui]
+hide_menu = true
+hide_footer = true
+[client]
+toolbarMode = "minimal"
