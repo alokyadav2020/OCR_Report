@@ -1,7 +1,5 @@
 import os
 import pymupdf
-from p
-# import fitz
 import re
 from PIL import Image
 from pathlib import Path
