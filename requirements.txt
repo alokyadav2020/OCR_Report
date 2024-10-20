@@ -6,6 +6,6 @@ python-dotenv
 anthropic
 openai
 fitz
-PyMuPDF
+# PyMuPDF
 pymupdf
 -e .
